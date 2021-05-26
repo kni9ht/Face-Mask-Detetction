@@ -11,10 +11,10 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-python3 MaskDetection[DATA CLEANING].py  //this will create the needed resources
+python3 MaskDetection[DATA CLEANING].py
 ```
 ```python
-python3 MaskDetection[TRAINING].py  //this will opens the webcam for video stream
+python3 MaskDetection[TRAINING].py
 ```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
