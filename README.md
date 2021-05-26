@@ -2,6 +2,10 @@
 
 Face Mash Detection is the Machine Learning Model that recognize weather the person is wearing the mask or not
 
+## Prerequisites
+* Python3 and above
+* Working Webcam
+
 ## Installation
 
 ```bash
@@ -11,10 +15,10 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-python3 MaskDetection[DATA CLEANING].py
+python MaskDetection[DATA CLEANING].py
 ```
 ```python
-python3 MaskDetection[TRAINING].py
+python MaskDetection[TRAINING].py
 ```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
