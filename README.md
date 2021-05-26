@@ -13,10 +13,10 @@ pip install -r requirements.txt
 ```
 
 ## Steps
-1. Load your favourite databse into mask and no-mask folders accordingly
+1. Load your favourite database into mask and no-mask folders accordingly
 2. Run  MaskDetection[DATA CLEANING] as mentioned below
 3. Run  MaskDetection[TRAINING] as mentioned below
-4. Video stream will pop up where it fulfill the objective
+4. Video stream will pop up where it fulfills the objective
 
 ## Usage
 
