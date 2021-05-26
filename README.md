@@ -12,6 +12,12 @@ Face Mash Detection is the Machine Learning Model that recognize weather the per
 pip install -r requirements.txt
 ```
 
+## Steps
+1. Load your favourite databse into mask and no-mask folders accordingly
+2. Run  MaskDetection[DATA CLEANING] as mentioned below
+3. Run  MaskDetection[TRAINING] as mentioned below
+4. Video stream will pop up where it fulfill the objective
+
 ## Usage
 
 ```python
